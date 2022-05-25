@@ -1,3 +1,4 @@
 hello tathagata
 new line added to old file
-merge pritam 
+merge pritam
+new code added for design 
